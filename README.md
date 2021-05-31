@@ -10,6 +10,7 @@ Several such data sets exist, but for this project, we’ll use the German Traff
 
 # Model Architecture
 ![Model Architecture](https://github.com/AbdulMutakabbir/Traffic-Sign-Detection/blob/main/assets/architecture.png)
+
 The Above image shows the architecture of the model that generated the best result for all the experimentations conducted
 
 # Experimentation
