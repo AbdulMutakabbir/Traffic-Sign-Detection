@@ -18,4 +18,6 @@ You can find the list of text files showing the experimentation results for diff
 Each experiment is listed with its model accuracy and is categorized based on various factors such as the number of hidden layers, kernel size, pooling size, etc.
 
 # Acknowledgements
-Data provided by J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Recognition Benchmark: A multi-class classification competition. In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011
+Data provided by J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. 
+The German Traffic Sign Recognition Benchmark: A multi-class classification competition. 
+In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011
